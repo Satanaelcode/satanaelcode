@@ -1,11 +1,11 @@
 <h1>Welcome to my Page!</h1>
 
 <li>
-<details>
+
   <summary>What do i do?</summary>
   
   <blockquote> I do Funny Python Stuff like dc bots</blockquote>
-</details>
+
 </li>
 
 <br>
