@@ -3,8 +3,8 @@
 <li>
 <details>
   <summary>What do i do?</summary>
-<blockquote>I do funny Python.</blockquote>
-Hello HUmon
+  
+  <blockquote> I do Funny Python Stuff like dc bots</blockquote>
 </details>
 </li>
 
