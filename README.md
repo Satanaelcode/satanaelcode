@@ -7,5 +7,6 @@
   <div>
     <img alt="Discord" src="https://img.shields.io/discord/1063226592274419852?style=social&logo=discord&logoColor=%233333ff&label=DarkDev%20Discord&cacheSeconds=5">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/satanaelcode?style=social">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/satanaelcode">
   </div>
 </br>
