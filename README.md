@@ -5,7 +5,7 @@
 <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=satanaelcode&show_icons=true&theme=dark&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanaelcode&layout=compact&langs_count=4&bg_color=ffffff00&text_color=a742f5&count_private=false&hide_border=false" height="150" alt="most_used_langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanaelcode&layout=compact&langs_count=4&bg_color=ffffff00&count_private=false&hide_border=true" height="150" alt="most_used_langs">
   </div>
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/EuGaming-Eugaming?label=MCName&color=%231a1aff&link=https%3A%2F%2Fnamemc.com%2Fprofile%2FEuGaming.1">
