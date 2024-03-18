@@ -1,7 +1,6 @@
 <h1>Welcome to my Page!</h1>
 
-<blockquote> Hey im EuGaming and a part of DarkDev Development i personal work on the server side of the things most of those repos are not public, i work most of the time with python or i did, i maybe need to update my github page soon, i will work on some mojo projects i think in the future.</blockquote>
-
+<blockquote> Hey, I'm EuGaming and a part of DarkDev Development ⚙️. I personally work on the server side of things most of those repos are not public, and I work most of the time with Python 🐍. </blockquote>
 <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=satanaelcode&show_icons=true&theme=dark&rank_icon=github&custom_title=EuGamings's%20Skid%20Stats.">
