@@ -4,7 +4,7 @@
 
 <br>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=satanaelcode&show_icons=true&theme=dark&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=satanaelcode&show_icons=true&theme=dark&rank_icon=github&custom_title=EuGamings's%20Skid%20Stats.">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanaelcode&layout=compact&langs_count=4&bg_color=ffffff00&count_private=false&hide_border=true" height="150" alt="most_used_langs">
   </div>
   <div>
