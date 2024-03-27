@@ -1,5 +1,7 @@
 <h1>Welcome to my Page!</h1>
 
+<img src="https://cdn.discordapp.com/icons/1063226592274419852/acf85ef7045aacecf5421631e70d5a08.webp">
+
 <blockquote> 👋 Hey, I'm EuGaming and a part of DarkDev Development. I personally work on the server side of things most of those repos are not public, and I work most of the time with Python 🐍. </blockquote>
 <br>
   <div>
