@@ -1,8 +1,17 @@
-<h1>Welcome to my Page!</h1>
+<h1>Welcome to my Github Page!</h1>
 
-<img src="Bad.Apple!!.full.2116173.gif">
+<img src="Bad.Apple!!.full.2116173.gif" align="left">
+<br>
+<br>
+<br>
 
-<blockquote> 👋 Hey, I'm EuGaming and a part of DarkDev Development. I personally work on the server side of things most of those repos are not public, and I work most of the time with Python 🐍. </blockquote>
+    ╔══════════════════════════════════════════════════════════════╗
+    ║ Hey, I'm EuGaming and a part of DarkDev Development.         ║
+    ║ I personally work on the serverside of things, most of those ║
+    ║ repos are not public, general speaking i love ❤ Python.      ║
+    ╚══════════════════════════════════════════════════════════════╝
+
+<br clear="left">
 <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=satanaelcode&show_icons=true&theme=dark&rank_icon=github&custom_title=EuGaming's%20Skid%20Stats.">
