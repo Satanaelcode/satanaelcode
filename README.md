@@ -1,4 +1,4 @@
-<h1>Welcome to my Github Page!</h1>
+<h1>~~/\~Welcome to my Github Page!~/\~~</h1>
 
 <img src="Bad.Apple!!.full.2116173.gif" align="left">
 <br>
