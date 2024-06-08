@@ -26,6 +26,3 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/satanaelcode">
   </div>
 </br>
-
-```math
-\ce{$\unicode[color:black !important; z-index: 1000; background-color: black !important; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Satanaelcode/satanaelcode/assets/121645064/76d7a776-cbb6-4a57-b7c2-7adbf8d01836');]{x0000}$}
