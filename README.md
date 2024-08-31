@@ -7,7 +7,7 @@
 
     ╔════════════════════════════════════════════════════════╗
     ║ Hey, I'm EuGaming and a part of DarkDev Development.   ║
-    ║ I personally work on the serverside        / \/ \      ║
+    ║ I personaly work on the serverside         / \/ \      ║
     ║ of hings, most of those repos are not      ╲ py ╱      ║   
     ║ public, general speaking i love Python.      \/        ║
     ╚════════════════════════════════════════════════════════╝
